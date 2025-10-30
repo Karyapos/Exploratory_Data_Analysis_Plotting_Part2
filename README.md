@@ -88,5 +88,3 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 - **Data Files:**
     - ***summarySCC_PM25.rds*** — PM2.5 emission data (1999–2008)
     - ***Source_Classification_Code.rds*** — Source classification codes
-
----
