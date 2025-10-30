@@ -24,6 +24,8 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 | **type** | The emission source type — one of `POINT`, `NONPOINT`, `ON-ROAD`, or `NON-ROAD`. |
 | **year** | The year of emissions recorded (1999, 2002, 2005, or 2008). |
 
+---
+
 ## 📊 Analysis Questions and Plots
 
 ### **Plot 1 — Total U.S. Emissions**
@@ -34,8 +36,6 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 
 **Output:**[plot1.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot1.png)
 
----
-
 ### **Plot 2 — Baltimore City Emissions**
 
 **Question:** Have total PM2.5 emissions decreased in Baltimore City, Maryland (`fips == "24510"`) from 1999 to 2008?
@@ -43,8 +43,6 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 **Code:** [plot2.R](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot2.R)
 
 **Output:**[plot2.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot2.png)
-
----
 
 ### **Plot 3 — Emissions by Source Type in Baltimore**
 
@@ -54,8 +52,6 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 
 **Output:**[plot3.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot3.png)
 
----
-
 ### **Plot 4 — Coal Combustion-Related Emissions**
 
 **Question:** How have PM2.5 emissions from coal combustion-related sources changed across the United States from 1999 to 2008?
@@ -63,8 +59,6 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 **Code:** [plot4.R](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot4.R)
 
 **Output:**[plot4.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot4.png)
-
----
 
 ### **Plot 5 — Motor Vehicle Emissions in Baltimore**
 
@@ -74,8 +68,6 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 
 **Output:**[plot5.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot5.png)
 
----
-
 ### **Plot 6 — Baltimore vs. Los Angeles Vehicle Emissions**
 
 **Question:** How do trends in motor vehicle emissions compare between Baltimore City (`fips == "24510"`) and Los Angeles County (`fips == "06037"`) from 1999 to 2008?
@@ -83,6 +75,8 @@ This project answers six analytical questions about how PM2.5 emissions have evo
 **Code:** [plot6.R](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot6.R)
 
 **Output:**[plot6.png](https://github.com/Karyapos/Exploratory_Data_Analysis_Plotting_Part2/blob/main/plot6.png)
+
+---
 
 ## 🧰 Tools and Technologies
 
