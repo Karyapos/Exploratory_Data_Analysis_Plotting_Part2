@@ -4,6 +4,17 @@ This repository contains my completed **EDA Project - Part 2**, analyzing **PM2.
 
 ---
 
+## 📖 How to View the Full Analysis
+For a more readable and narrative version of this project, you can open:
+
+* [PM2.5 Emissions Analysis.Rmd](https://github.com/Karyapos/PM2.5-Emissions-Analysis/blob/main/PM2.5%20Emissions%20Analysis.Rmd) — the original R Markdown source
+
+* [PM2.5 Emissions Analysis.md](https://github.com/Karyapos/PM2.5-Emissions-Analysis/blob/main/PM2.5%20Emissions%20Analysis.md) — the knitted Markdown output
+
+* [PM2.5 Emissions Analysis.pdf](https://github.com/Karyapos/PM2.5-Emissions-Analysis/blob/main/PM2.5-Emissions-Analysis.pdf) — the PDF version with embedded plots and formatted text
+
+---
+
 ## 🧭 Project Overview
 
 **Fine particulate matter (PM2.5)** is one of the most harmful ambient air pollutants affecting human health.
